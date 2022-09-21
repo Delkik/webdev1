@@ -1,4 +1,30 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.editor-main{
+    /* background-color: aqua; */
+    text-align: center;
+    /* align-items: center; */
+    /* width:100%; */
+}
+
+.please-center{
+
+    display: inline-block;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h3{
+    margin-top: 10px;
+    padding: 0;
+}
+
 .editors{
-    width: 400px;
-    display: flex;
+    /* margin: 0 auto; */
+    height: 350px;
 }
