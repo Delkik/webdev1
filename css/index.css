@@ -1,0 +1,47 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+.editor-main{
+    /* background-color: aqua; */
+    text-align: center;
+    /* align-items: center; */
+    /* width:100%; */
+}
+
+.please-center{
+
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    background-color:darkseagreen;
+    padding: 10px;
+    border: 0px;
+    border-radius: 10px 10px;
+    color:crimson;
+}
+
+a:hover{
+    background-color:rgb(100, 151, 100);
+}
+
+a:visited{
+    color:blue;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h3{
+    margin-top: 10px;
+    padding: 0;
+}
+
+.editors{
+    /* margin: 0 auto; */
+    height: 350px;
+}
