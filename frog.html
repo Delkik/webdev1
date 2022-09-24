@@ -6,6 +6,8 @@
         <meta charset="UTF-8">
     
         <title>I Love Frogs</title>
+        <script src="script.js"></script> 
+        <link rel="stylesheet" type="text/css" href="css/frog.css">
     </head>
 
     <body>
@@ -13,19 +15,31 @@
         <div class="title">
             <h1>The Desert Rain Frog</h1>
             <h3>He's pretty cool</h3>
+            <button onclick="changeColor()">Black and Blue</button>
         </div>
 
-        <ul class="main">
+        <div class="mid">
+            <p>The Desert rain frog is a very small, cute frog. They're don't turn 
+            <br>into tadpoles and go straight into frog mode. They can't jump so 
+            <br>they need to run everywhere and don't require water as much as a 
+            <br>regular frog. Despite all this, they are still frogs and still 
+            <br>the best ones out there.
+            </p>
+
+            <h3>Here's some cute pictures</h3>
+        </div>
+
+        <ul id="main">
             <li class="main-item">
-                <img src="img/frog1.jpg" alt="tiny frog">
+                <img class="frog-pics" src="img/frog1.jpg" alt="tiny frog">
                 <p>Tiny Guy</p>
             </li>
             <li class="main-item">
-                <img src="img/frog2.jpg" alt="inflated frog">
+                <img class="frog-pics" src="img/frog2.jpg" alt="inflated frog">
                 <p>Big Guy</p>
             </li>
             <li class="main-item">
-                <img src="img/frog3.jpg" alt="dirty frog">
+                <img class="frog-pics" src="img/frog3.jpg" alt="dirty frog">
                 <p>Dirty Guy</p>
             </li>
         </ul>

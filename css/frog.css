@@ -1,13 +1,26 @@
 body{
     text-align: center;
+    background-color: lightblue;
 }
 
-.main{
-    text-align: center;
+h1{
+    margin-bottom: 0;
 }
 
-ul{
-    list-style: none;
+h3{
+    margin-top: 10px;
+    padding: 0;
+}
+
+#main{
+    /* text-align: center; */
+    margin: 0 auto;
+    list-style-type:none;
+}
+
+.frog-pics{
+    max-height: 300px;
+    max-width: 400px;
 }
 
 .main-item{
