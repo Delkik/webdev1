@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: peachpuff;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+h3{
+    margin-top: 10px;
+    padding: 0;
+}
+
+#main{
+    margin: 0 auto;
+    list-style-type:none;
+}
+
+a{
+    text-decoration: none;
+    background-color:darkseagreen;
+    padding: 10px;
+    border: 0px;
+    border-radius: 10px 10px;
+    color:crimson;
+}
+
+a:hover{
+    background-color:rgb(100, 151, 100);
+}
+
+a:visited{
+    color:blue;
+}
+
+.frog-pics{
+    max-height: 300px;
+    max-width: 400px;
+}
+
+.main-item{
+    display: block;
+}
