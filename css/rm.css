@@ -39,6 +39,11 @@ a:visited{
     max-width: 400px;
 }
 
+.football-pics{
+    max-height: 300px;
+    max-width: 400px;
+}
+
 .main-item{
     display: block;
 }
