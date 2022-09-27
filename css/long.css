@@ -46,3 +46,8 @@ a:visited{
 .main-item{
     display: inline-block;
 }
+
+.table{
+    margin: 0 auto;
+    border: solid 1px;
+}

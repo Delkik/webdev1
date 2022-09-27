@@ -43,3 +43,8 @@ a:visited{
 .main-item{
     display: block;
 }
+
+.table{
+    margin: 0 auto;
+    border: solid 1px;
+}
