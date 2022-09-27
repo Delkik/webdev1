@@ -19,11 +19,11 @@ h3{
 
 a{
     text-decoration: none;
-    background-color:darkseagreen;
+    background-color:blueviolet;
     padding: 10px;
     border: 0px;
     border-radius: 10px 10px;
-    color:crimson;
+    color:green;
 }
 
 a:hover{
