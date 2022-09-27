@@ -19,11 +19,11 @@ h3{
 
 a{
     text-decoration: none;
-    background-color:darkseagreen;
+    background-color:blueviolet;
     padding: 10px;
     border: 0px;
     border-radius: 10px 10px;
-    color:crimson;
+    color:green;
 }
 
 a:hover{
@@ -35,6 +35,11 @@ a:visited{
 }
 
 .frog-pics{
+    max-height: 300px;
+    max-width: 400px;
+}
+
+.football-pics{
     max-height: 300px;
     max-width: 400px;
 }
